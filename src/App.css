@@ -12,6 +12,11 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.special-paragraph {
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+}
+
 
 .App-header {
   background-color: #282c34;
@@ -36,3 +41,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+@font-face {
+  font-family: 'Brigends Expanded Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('../fonts/brigends-expanded-cufonfonts-webfont/BrigendsExpanded-nReK1.woff'), url('BrigendsExpanded-nReK1.woff') format('woff');
+  }
+
+.font-Brigends-expanded {
+  font-family: 'Brigends-expanded', sans-serif;
+}
+
