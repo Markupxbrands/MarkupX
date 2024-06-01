@@ -122,7 +122,13 @@ const Lower = () => {
         <p className="text-base">+91 9599272272</p>
       </div>
       <div>
-        <p className="text-base">query.markupX@gmail.com</p>
+        <p className="text-base">founder@markupxbrands.com</p>
+      </div>
+      <div>
+        <a href="https://drive.google.com/file/d/1rALi6IkjQ0Mrch8kpU1i8KgbjWQY7HCv/view" className="text-base">Privacy policy</a>
+      </div>
+      <div>
+       <a href="https://drive.google.com/file/d/1qPgNLDPO53JY136EgDljeJsqRdEKeC-M/view" className="text-base">Terms of use</a>
       </div>
       <div>
         <p className="text-base">Our Handles</p>
